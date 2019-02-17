@@ -9,6 +9,6 @@ session_unset();
 session_destroy();
 
 
-header('Location:main.html');
+header('Location:index.html');
 
 ?>
